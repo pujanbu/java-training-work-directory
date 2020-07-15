@@ -1,0 +1,11 @@
+img.logo {
+	border-radius: 5px;
+	height: 50px;
+	width: 50px;
+	border: 1px solid black;
+	padding-top: 150px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+}
+

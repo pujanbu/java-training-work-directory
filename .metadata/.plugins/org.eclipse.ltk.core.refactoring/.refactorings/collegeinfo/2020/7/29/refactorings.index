@@ -1,0 +1,7 @@
+1594686416494	Delete element
+1594686438881	Rename package 'com.vastika.studentinusa.controller'
+1594686457540	Rename package 'com.vastika.studentinusa.model'
+1594686485636	Rename package 'com.vastika.studentinusa.repository'
+1594686544411	Rename package 'com.vastika.studentinusa.service'
+1594686563376	Rename package 'com.vastika.studentinusa.util'
+1594686585441	Move 'index.jsp' to 'views'

@@ -1,0 +1,13 @@
+package com.vastika.collegeinfo.repository;
+
+import java.util.List;
+
+import com.vastika.collegeinfo.model.College;
+
+public interface CollegeRepository {
+	void saveCollegeInfo(College college);
+	List <College> getAllCollegeInfo();
+	void deleteCollegeInfo(int id);
+	College getCollegeById (int id);
+	void updateCollegeInfo(College college);
+}

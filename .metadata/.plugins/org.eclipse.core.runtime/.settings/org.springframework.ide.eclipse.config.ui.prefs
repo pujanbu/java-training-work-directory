@@ -1,0 +1,14 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringMVCHibernate/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringMVCHibernate/src/main/webapp/WEB-INF/spring/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/UserInfoSystem/src/main/webapp/WEB-INF/spring/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/UserInfoSystem/src/main/webapp/WEB-INF/spring/spring-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/college-info/src/main/webapp/WEB-INF/spring/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/college-info/src/main/webapp/WEB-INF/spring/spring-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/hibernateProj/src/main/webapp/WEB-INF/spring/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/hibernateProj/src/main/webapp/WEB-INF/spring/spring-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-core-demo-lec30/src/main/resources/spring-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-core-demo/src/main/resources/spring-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring-mvc-demo-webapp/src/main/webapp/WEB-INF/spring-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/students-in-usa/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/students-in-usa/src/main/webapp/WEB-INF/spring/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+eclipse.preferences.version=1
